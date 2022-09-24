@@ -1,3 +1,3 @@
-# Imersaodev Alura
+# portfólio-imersaoDev
 
-Projeto inicial de um Portfólio que desenvolvi participando da imersão dev da Alura.
+Primeiros passos no desenvolvimento Front-end, com um projeto simples de um portfólio pessoal, que inclui outros projetos desenvolvidos na minha participação na imersão dev da Alura.
